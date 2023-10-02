@@ -1,0 +1,46 @@
+h1{
+    color: rgb(96, 14, 173);
+}
+
+#info{
+    line-height: 1.5em;
+}
+a{
+    text-decoration: none;
+    color: rgb(49, 208, 166);
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+body{
+    background-color: rgb(235, 231, 166);
+    margin-left: 150px;
+    margin-right: 20px;
+
+}
+
+h2{
+    color: rgba(255, 0, 0, 0.751);
+    border-bottom: 2px solid;
+    margin-top: 1.5em;
+}
+
+#sidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    background-color: rgb(222, 184, 135);
+
+    height: 100%;
+    width: 120px;
+
+    font-size: 1.2em;
+    line-height: 1.5em;
+
+    padding-top: 20px;
+    padding-left: 20px;
+
+}
